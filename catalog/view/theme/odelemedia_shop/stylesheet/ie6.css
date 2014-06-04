@@ -1,0 +1,47 @@
+#header .div3 {
+	width: 268px;
+	height: 67px;
+}
+#content {
+	float: left;
+	width: 580px;	
+}
+#content .top {
+	float: left;
+	clear: both;
+	width: 100%;	
+}
+#content .middle {
+	float: left;
+	clear: both;
+	width: 580px;
+}
+#content .bottom {
+	float: left;
+	clear: both;
+	width: 100%;	
+	line-height: 5px;
+}
+.box {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+.box .top {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+.box .middle {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+.box .bottom {
+	line-height: 5px;
+	clear: both;
+	width: 100%;
+}
+.buttons {
+	width: 100%;
+}
